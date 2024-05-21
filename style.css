@@ -177,3 +177,28 @@
 .desktop-home-page .span{
     
 }
+
+@media only screen and (max-width: 600px) {
+  .desktop-home-page .button{
+    margin:25px;
+    display:flex;
+      justify-content: center;
+      align-items: center;
+      background-color: grey;
+      height:90px;
+      width:225px;
+      border-radius:30px;
+  }
+
+  .desktop-home-page .background-word{
+    font-family:Outward;
+    font-size:1000%
+  }
+
+  .desktop-home-page .about-me{
+    display:flex;
+    width:40%;
+    flex-direction:row;
+}
+
+  }
