@@ -24,6 +24,12 @@
     justify-content:flex-end;
 }
 
+.desktop-home-page .frame-4{
+  display:flex;
+  flex-direction:row;
+  justify-content:Stretch;
+}
+
 .desktop-home-page .nav-bar{
   display:flex;
   flex-direction:column;
@@ -44,6 +50,12 @@
   flex-direction:row;
   justify-content:stretch;
   width:100%
+}
+
+.desktop-home-page .about-me{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
 }
 
 .desktop-home-page .about-me-blurb{
@@ -126,6 +138,16 @@
     Border-radius:20px;
 }
 
+.desktop-home-page .p{
+  color:#EDA32D;
+  font-size:30px;
+}
+
+.desktop-home-page .text-wrapper-4{
+  color:#EFDC8F;
+  font-style:italic;
+  font-size:17px;
+}
 
 
 .desktop-home-page .background-word{
