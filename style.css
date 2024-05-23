@@ -3,7 +3,7 @@ html{
 }
 
 body{
-  background-color: #740e00
+  background-color: #740e00;
 }
 
 .deskop-home-page {
@@ -36,7 +36,7 @@ body{
     display:flex;
     flex-direction:row;
     justify-content:flex-end;
-    height:fit-content
+    height:fit-content;
 }
 
 #q-mark{
@@ -122,7 +122,7 @@ body{
     display: flex;
     gap: 40px;
     height: 350.47px;
-    width:100%
+    width:100%;
     margin-right: -90px;
     overflow-x: scroll;
     position: relative;
@@ -214,9 +214,7 @@ body{
   justify-content:center;
 }
 
-.desktop-home-page .span{
-    
-}
+
 
 .urclogo-NO{
   width:80%;
